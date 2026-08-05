@@ -5,7 +5,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+SaaS+Applications;Always+Learning+Something+New" />
 
 </div>
-
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glitchivy/glitchivy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glitchivy/glitchivy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/glitchivy/glitchivy/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## 🚀 About Me

@@ -29,7 +29,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ### Frontend

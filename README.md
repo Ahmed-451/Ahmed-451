@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ahmed Ali 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines= Ai+Software+Developer+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+SaaS+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines= Ai+Software+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+SaaS+Applications;Always+Learning+Something+New" />
 
 </div>
 ---

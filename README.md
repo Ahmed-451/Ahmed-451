@@ -47,7 +47,7 @@
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mediapipe" />
 </p>
 
 ### Database

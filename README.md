@@ -59,7 +59,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma,claude" />
 </p>
 
 ---
